@@ -11,8 +11,8 @@ A machine learning-based Streamlit web application to predict whether a person i
 ## 🌐 Live App
 🔗 [Click here to try the app](https://diabetes-prediction-app-ngecphawf5aknkdky36pr3.streamlit.app)
 
-📘 Model Development Notebook:
-→ diabetes_model_dev.ipynb (Google Colab)
+📘 **Model Development Notebook:**  
+[diabetes_model_dev.ipynb](https://github.com/yashshingne33/diabetes-prediction-app/blob/main/diabetes_model_dev.ipynb)
 
 ## 📊 Input Parameters
 - Pregnancies
